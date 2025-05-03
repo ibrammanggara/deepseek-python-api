@@ -5,7 +5,7 @@ import os
 # Konfigurasi client OpenAI dengan OpenRouter
 client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
-    api_key="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",  # Ganti dengan API key yang valid
+    api_key="bla bla bla",  # Ganti dengan API key yang valid
 )
 
 def get_existing_sessions():
